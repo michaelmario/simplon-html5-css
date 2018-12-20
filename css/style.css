@@ -49,8 +49,13 @@ section>article>p{
 }
 .well{
    
-    padding:9px;
+    padding:10px;
     height:auto;
+    margin-bottom:30px;
+
+}
+.list-group{
+    height:500px; 
 
 }
 li{
@@ -64,6 +69,12 @@ li>.badge{
 }
 li:nth-child(even){
     margin-left:50px;
+    padding-bottom:20px;
+}
+.liGroup{
+    padding-left:10px;
+    padding-top: 10px;
+   
 }
 h5{
   color:#E64E4E;
@@ -81,8 +92,8 @@ img{
     width:50%;
     margin-right:10px;
     float:left;
-
 }
+
 .boxRight{
     display:none;
 }
