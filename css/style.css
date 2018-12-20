@@ -55,7 +55,7 @@ section>article>p{
 
 }
 .list-group{
-    height:500px; 
+    height:470px; 
 
 }
 li{
@@ -71,10 +71,15 @@ li:nth-child(even){
     margin-left:50px;
     padding-bottom:20px;
 }
+li:nth-child(last){
+padding-bottom:5px;
+}
 .liGroup{
     padding-left:10px;
-    padding-top: 10px;
-   
+    padding-top: 10px;   
+}
+.separator{
+    margin-bottom:40px;
 }
 h5{
   color:#E64E4E;
